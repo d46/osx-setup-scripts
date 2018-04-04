@@ -17,6 +17,12 @@ sh docker.sh
 brew cask install slack
 brew cask install google-chrome
 brew cask install postman
+brew cask install alfred
+
+# Appearance
+sh appearance.sh
 
 git config --global user.name d46
 git config --global user.email daghangunay@gmail.com
+
+killall Terminal
