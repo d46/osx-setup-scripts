@@ -1,4 +1,4 @@
-TOKEN="225c605420b45685c90ebd6a9f7409976ed90e25"
+read -p "TOKEN: " TOKEN
 GISTID="\"856b40b3c956192fb4ba3917ea3d6c65\""
 brew cask install visual-studio-code
 code --install-extension Shan.code-settings-sync
