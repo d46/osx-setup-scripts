@@ -21,6 +21,7 @@ brew cask install slack
 brew cask install google-chrome
 brew cask install postman
 brew cask install alfred
+brew cask install openoffice
 
 # Appearance
 sh appearance.sh
