@@ -13,6 +13,9 @@ sh nvm.sh
 # Docker
 sh docker.sh
 
+# Java
+sh java.sh
+
 # Utils
 brew cask install slack
 brew cask install google-chrome
