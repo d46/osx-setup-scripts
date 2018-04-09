@@ -22,6 +22,7 @@ brew cask install google-chrome
 brew cask install postman
 brew cask install alfred
 brew cask install openoffice
+brew install hugo
 
 # Appearance
 sh appearance.sh
