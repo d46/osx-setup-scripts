@@ -23,6 +23,7 @@ brew cask install postman
 brew cask install alfred
 brew cask install openoffice
 brew install hugo
+brew cask install spotify
 
 # Appearance
 sh appearance.sh
