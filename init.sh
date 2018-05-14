@@ -4,9 +4,6 @@
 # VSCode
 sh code.sh
 
-# Iterm
-sh iterm.sh
-
 # NVM
 sh nvm.sh
 
@@ -31,4 +28,8 @@ sh appearance.sh
 git config --global user.name d46
 git config --global user.email daghangunay@gmail.com
 
+# Iterm
+sh iterm.sh
+
 killall Terminal
+
